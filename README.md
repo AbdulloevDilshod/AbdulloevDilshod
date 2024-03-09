@@ -28,6 +28,6 @@ I am a NestJs Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-abdulloev-736762205/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-abdulloev-736762205/) [![Instagram Badge](https://img.shields.io/badge/Instagram-e82c7a?style=for-the-badge&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com)](https://www.instagram.com/abdulloev___dilshod?igsh=MW16eWRsbmlkZ2g0bw%3D%3D&utm_source=qr)
 
 
