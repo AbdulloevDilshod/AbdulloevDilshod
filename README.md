@@ -13,7 +13,7 @@
   Hey there I'm Dilshod
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <h2>NestJs Backend Developer from Uzbekistan</h2>
+  <h3>I'm <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="30" hight="15"> NestJs Backend Developer from Uzbekistan :uzbekistan:</h3>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
