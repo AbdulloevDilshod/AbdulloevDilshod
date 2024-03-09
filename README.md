@@ -21,7 +21,7 @@
   ---
   
 ### :man_technologist: About Me : 
-I am a NestJs <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="30">Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan :uzbekistan:
+I am a NestJs <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="30" hight="15"> Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan :uzbekistan:
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
