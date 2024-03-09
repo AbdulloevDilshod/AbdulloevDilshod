@@ -24,6 +24,8 @@
 ### :man_technologist: About Me : 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
+- - 📄 Know about my experiences [CV](https://www.notion.so/Resume-b660d02297474bd892aeb0daa9da453d?pvs=4)
+
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
