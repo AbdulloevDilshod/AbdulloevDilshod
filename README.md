@@ -8,5 +8,6 @@
   <img src="https://img.shields.io/badge/Instagram-e82c7a?style=for-the-badge&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com" alt="Instagram Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=AbdulloevDilshod&style=flat-square&color=blue" alt=""/>
 </div>
 
